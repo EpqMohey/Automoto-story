@@ -16,7 +16,7 @@ body {
 
 
 .hero-section {
-    background-image: url(../Images/Image20250129194651.jpg);
+    background-image: url(Images/Image20250129194651.jpg);
     height: 120vh;
     width:100vw;
     background-repeat: no-repeat;
@@ -31,7 +31,7 @@ header{
     justify-content: space-around;
     align-items: center;
     opacity: 60%;
-    background-image: url(/Images/360_F_98593539_L3cNIqMZT511Qoz2DXe31xBAqMqPYdGj.jpg);
+    background-image: url(Images/360_F_98593539_L3cNIqMZT511Qoz2DXe31xBAqMqPYdGj.jpg);
 
 }
 
@@ -88,7 +88,7 @@ button {
 }
 
 article {
-    background-image: url(/Images/360_F_98593539_L3cNIqMZT511Qoz2DXe31xBAqMqPYdGj.jpg);
+    background-image: url(Images/360_F_98593539_L3cNIqMZT511Qoz2DXe31xBAqMqPYdGj.jpg);
     width:fit-content;
     opacity: 70%;
     border-radius: 16px;
